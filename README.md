@@ -1,0 +1,4 @@
+spotlight
+=========
+
+A simplest finder.
